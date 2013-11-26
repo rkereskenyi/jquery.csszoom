@@ -1,5 +1,7 @@
 ﻿/* CSS zoom control jQuery plugin v 1.0.0 */
 
+/* GitHub source: http://github.com/rkereskenyi/jquery.csszoom */
+
 /* jQuery CSS zoom control based on Keith Wood's plugin framework code (http://keith-wood.name/pluginFramework.html) */
 
 (function($) { // Hide scope, no $ conflict
