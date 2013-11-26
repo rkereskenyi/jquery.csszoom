@@ -69,8 +69,6 @@ $.extend(CSSZoom.prototype, {
             'display': 'inline-block',
             'width': '14px',
             'height': '14px',
-            'line-height': '14px',
-            'vertical-align': 'text-top',
             'background-image': 'url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfdCw8RNCzZ0dJFAAABE0lEQVQY04WQMUvDYBCG3y9NiNgqKgo5qiioRR1sS6Bjm9FJZydxL+hfcJAOjh3tUHQ0UAoFf4WouCgOLko/SzXWpqGN4DmkfBUcvOm4hzuee4H/iwpUoyfyqEaF0VQAAO2Z1TgMCIToYVBt7v/aWuZc97DEDjsnB7nuOtOOgqmGzcVjtgCAp0pFm1fvFMy+2ByhCOcfNznqNUCbBIRUEh/htwEFZ66BkSOlg5QpFVy6AMbqEaZF88xAsqFe4dnt8+ctD4MbQM9Mw0Dvs5Nv3gIx4Ch4uLr3Ayu2Ebfm5JrrrWgT4e74pf8qho4W5pEA0Ic8dSrlr8R7J0zrw+sSypddoFJeaGX6+t+chc8u+cl29u0Hh41cJ8HWfvEAAAAASUVORK5CYII=)',
             'background-repeat': 'no-repeat'});
         sliderHandle.append(iconZoom);
